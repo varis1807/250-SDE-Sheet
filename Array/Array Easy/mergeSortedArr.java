@@ -1,5 +1,4 @@
-package Array.Array Easy;
-
+import java.util.*;
 public class mergeSortedArr {
       
 }
